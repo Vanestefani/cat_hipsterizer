@@ -1,5 +1,5 @@
 # Cat Hipsterizer
-Inspirado por ["Hipsterize Your Dog With Deep Learning"](http://blog.dlib.net/2016/10/hipsterize-your-dog-with-deep-learning.html)
+Inspirado por ["Hipsterize Your Dog With Deep Learning"](http://blog.dlib.net/2016/10/hipsterize-your-dog-with-deep-learning.html).
 Creador por : kairess
 ![result.jpg](https://github.com/kairess/cat_hipsterizer/raw/master/result/result.jpg)
 ![result2.jpg](https://github.com/kairess/cat_hipsterizer/raw/master/result/result2.jpg)
